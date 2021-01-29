@@ -1,0 +1,10 @@
+D:\EigeneDateien\Visual Studio 2019\Projects\SemiProjekt\bin\Debug\SemiProjekt.exe.config
+D:\EigeneDateien\Visual Studio 2019\Projects\SemiProjekt\bin\Debug\SemiProjekt.exe
+D:\EigeneDateien\Visual Studio 2019\Projects\SemiProjekt\bin\Debug\SemiProjekt.pdb
+D:\EigeneDateien\Visual Studio 2019\Projects\SemiProjekt\obj\Debug\SemiProjekt.csprojAssemblyReference.cache
+D:\EigeneDateien\Visual Studio 2019\Projects\SemiProjekt\obj\Debug\SemiProjekt.Form1.resources
+D:\EigeneDateien\Visual Studio 2019\Projects\SemiProjekt\obj\Debug\SemiProjekt.Properties.Resources.resources
+D:\EigeneDateien\Visual Studio 2019\Projects\SemiProjekt\obj\Debug\SemiProjekt.csproj.GenerateResource.cache
+D:\EigeneDateien\Visual Studio 2019\Projects\SemiProjekt\obj\Debug\SemiProjekt.csproj.CoreCompileInputs.cache
+D:\EigeneDateien\Visual Studio 2019\Projects\SemiProjekt\obj\Debug\SemiProjekt.exe
+D:\EigeneDateien\Visual Studio 2019\Projects\SemiProjekt\obj\Debug\SemiProjekt.pdb
